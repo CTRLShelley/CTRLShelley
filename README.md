@@ -3,12 +3,12 @@
 <h2>🛜 Networking Projects</h2>
 
 - <b>Network Analysis</b>
-  - [Uncovering Network Diagnostics with Traceroute and ICMP](https://github.com/Shell-in-Command/Networking-Projects/tree/main)
+  - [Network Diagnostics with Traceroute & ICMP](https://github.com/Shell-in-Command/Networking-Projects/tree/main)
 
-<h2>🕸️ Web Application Security Projects</h2>
+<h2>🕸️ OWASP Top 10 Vulnerabilities in Web Applications</h2>
 
-- <b>OWASP Top 10 Vulnerabilities
-    - [
+- <b>Session Hijacking
+    - [Exploiting Unsanitized Input: Stolen Sessions](https://github.com/CTRLShelley/Session-Hijacking)
 
 
 <h2> 🎓 Education</h2>
