@@ -2,7 +2,7 @@
 
 <h2>🛜 Networking Projects</h2>
 
-- <b>Network Diagnostics using Wireshark</b>
+- <b>Network Analysis</b>
   - [Uncovering Network Diagnostics with Traceroute and ICMP](https://github.com/Shell-in-Command/Networking-Projects/tree/main)
 
 <h2>🕸️ Web Application Security Projects</h2>
