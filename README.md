@@ -5,7 +5,7 @@
 <h3>🛜 Networking</h3>
 
 - <b>Network Analysis</b>
-  - [Network Diagnostics with ICMP & Traceroute](https://github.com/CTRLShelley/Network-Packet-Analysis)
+  - [Wireshark Network Diagnostics with ICMP & Traceroute](https://github.com/CTRLShelley/Network-Packet-Analysis)
 
 
 <h3>🕸️ OWASP Top 10 Vulnerabilities in Web Applications</h3>
