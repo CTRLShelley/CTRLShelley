@@ -7,8 +7,11 @@
 
 <h2>🕸️ OWASP Top 10 Vulnerabilities in Web Applications</h2>
 
-- <b>Session Hijacking
-    - [Exploiting Unsanitized Input: Stolen Sessions](https://github.com/CTRLShelley/Session-Hijacking)
+- <b>Session Hijacking</b>
+  - [Exploiting Unsanitized Input: Stolen Sessions](https://github.com/CTRLShelley/Session-Hijacking)
+
+- <b>Authentication & Access Controls</b>
+  - [Authentication Done Wrong](https://github.com/CTRLShelley/Access-Controls)
 
 
 <h2> 🎓 Education</h2>
