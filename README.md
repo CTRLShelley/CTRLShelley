@@ -19,10 +19,6 @@
 
 <h2> 🎓 Education</h2>
 
-- [<b>Amazon Web Services</b>](https://aws.amazon.com/?nc2=h_home)
-  - AWS Cloud Institute, Cloud Developer Track - <i>in progress</i>
-
-
 - <b>[North Carolina Agricultural and Technical State University</b>](https://www.ncat.edu)
   - Master of Science, Cybersecurity
   - Post Baccalaureate Certificate, Cybersecurity
