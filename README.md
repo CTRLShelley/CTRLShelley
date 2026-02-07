@@ -1,4 +1,5 @@
-<h1>Hi, I'm Shelley! <br/><a href="https://www.linkedin.com/in/shelleysearcy/"> An cybersecurity analyst focused on testing, defense, and access management.</a></h1>
+<h1>Hi, I'm Shelley! <br/><a href="https://www.linkedin.com/in/shelleysearcy/"></a></h1>
+A cybersecurity analyst focused on testing, defense, and access management.
 
 <h2>💻 Hands-on Projects</h2>
 
