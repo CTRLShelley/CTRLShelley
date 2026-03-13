@@ -3,6 +3,10 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
 
 <h2>💻 Hands-on Projects</h2>
 
+<h3>👥 Identity and Access Management </h3>
+  - [Microsoft Entra ID - Identity and Access Management](https://github.com/CTRLShelley/Network-Packet-Analysis)
+
+
 <h3>🛜 Networking</h3>
 
 - <b>Network Analysis</b>
