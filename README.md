@@ -1,19 +1,19 @@
 <h1>Hi, I'm Shelley! <br/><a href="https://www.linkedin.com/in/shelleysearcy/"></a></h1>
 A cybersecurity professional focused on Identity and Access Management (IAM) and cloud identity security.  The projects found here demonstrate practical experience building and administering identity environments as well as web application security testing and network analysis.
 
-<h2>💻 Hands-on Projects</h2>
+<h2>💻 Home Lab 💻</h2>
 
-<h3>👥 Identity and Access Management </h3>
+<h3>👥 Identity and Access Management 👥 </h3>
   - [Microsoft Entra ID - Identity and Access Management](https://github.com/CTRLShelley/Network-Packet-Analysis)
 
 
-<h3>🛜 Networking</h3>
+<h3>🛜 Networking 🛜</h3>
 
 - <b>Network Analysis</b>
   - [Wireshark Network Diagnostics with ICMP & Traceroute](https://github.com/CTRLShelley/Network-Packet-Analysis)
 
 
-<h3>🕸️ OWASP Top 10 Vulnerabilities in Web Applications</h3>
+<h3>🕸️ OWASP Top 10 Vulnerabilities in Web Applications 🕸️</h3>
 
 - <b>Session Hijacking</b>
   - [Exploiting Unsanitized Input: Stolen Sessions](https://github.com/CTRLShelley/Session-Hijacking)
@@ -22,7 +22,7 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
   - [Authentication & Authorization Gone Wrong](https://github.com/CTRLShelley/Access-Controls)
 
 
-<h2> 🎓 Education</h2>
+<h2> 🎓 Education 🎓</h2>
 
 - <b>[North Carolina Agricultural and Technical State University</b>](https://www.ncat.edu)
   - Master of Science, Cybersecurity
@@ -37,7 +37,7 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
 
   - Associate in Applied Science, Accounting
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me 🤳</h2>
 
 [<img align="left" alt="CTRLShelley | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Shelley Searcy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
