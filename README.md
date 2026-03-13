@@ -6,19 +6,23 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
 <h3>👥 Identity and Access Management 👥 </h3>
 
 - <b>Microsoft Entra ID</b>
+  - This project demonstrates core identity and access management tasks using Microsoft Entra ID, simulating a real organizational identity; highlights role-based access controls (RBAC), identity management and secure access governance.
   - [Microsoft Entra ID Core Concepts](https://github.com/CTRLShelley/Microsoft-Entra-ID)
 
 <h3>🛜 Networking 🛜</h3>
 
 - <b>Network Analysis</b>
+  - This project examines captured network packets to study how data moves across a network and how attackers may exploit network communications highlighting the pole of packet analysis in network defense.
   - [Wireshark Network Diagnostics with ICMP & Traceroute](https://github.com/CTRLShelley/Network-Packet-Analysis)
 
 <h3>🕸️ OWASP Top 10 Vulnerabilities in Web Applications 🕸️</h3>
 
 - <b>Session Hijacking</b>
+  - A demonstration how attackers can exploit web session management vulnerabilities to take control of an authenticated user session; explores the mechanics of session hijacking and highlights the security risks with stolen session identifiers.
   - [Exploiting Unsanitized Input: Stolen Sessions](https://github.com/CTRLShelley/Session-Hijacking)
 
 - <b>Access Controls</b>
+  - An exploration of different types of access control mechanisms and how improper implmentation leads to security vulnerabilities; illustrates how authentication and authorization controls protect ssytems and prevent unauthorized access.
   - [Authentication & Authorization Gone Wrong](https://github.com/CTRLShelley/Access-Controls)
 <br>
 <br>
