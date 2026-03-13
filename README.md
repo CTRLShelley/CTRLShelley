@@ -4,14 +4,14 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
 <h2>💻 Home Lab 💻</h2>
 
 <h3>👥 Identity and Access Management 👥 </h3>
-  - [Microsoft Entra ID - Identity and Access Management](https://github.com/CTRLShelley/Network-Packet-Analysis)
 
+- <b>Microsoft Entra ID</b>
+  - [Microsoft Entra ID Core Concepts](https://github.com/CTRLShelley/Microsoft-Entra-ID)
 
 <h3>🛜 Networking 🛜</h3>
 
 - <b>Network Analysis</b>
   - [Wireshark Network Diagnostics with ICMP & Traceroute](https://github.com/CTRLShelley/Network-Packet-Analysis)
-
 
 <h3>🕸️ OWASP Top 10 Vulnerabilities in Web Applications 🕸️</h3>
 
@@ -20,8 +20,8 @@ A cybersecurity professional focused on Identity and Access Management (IAM) and
 
 - <b>Access Controls</b>
   - [Authentication & Authorization Gone Wrong](https://github.com/CTRLShelley/Access-Controls)
-
-
+<br>
+<br>
 <h2> 🎓 Education 🎓</h2>
 
 - <b>[North Carolina Agricultural and Technical State University</b>](https://www.ncat.edu)
