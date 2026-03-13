@@ -1,5 +1,7 @@
-<h1>Hi, I'm Shelley! <br/><a href="https://www.linkedin.com/in/shelleysearcy/"></a></h1>
-A cybersecurity professional focused on Identity and Access Management (IAM) and cloud identity security.  The projects found here demonstrate practical experience building and administering identity environments as well as web application security testing and network analysis.
+<h1>👋🏾 Hi, I'm Shelley! <br/><a href="https://www.linkedin.com/in/shelleysearcy/"></a></h1>
+🗂️  Welcome to my portfolio.  Let me introduce myself!<br>
+<br>
+I am a cybersecurity professional focused on Identity and Access Management (IAM) and cloud identity security with a background in data analytics, technical support, and customer service.  The projects found here demonstrate practical experience building and administering identity environments as well as web application security testing and network analysis.
 
 <h2>💻 Home Lab 💻</h2>
 
